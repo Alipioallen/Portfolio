@@ -200,10 +200,6 @@ section {
 
 .header-content .right-header .name {
   font-size: 2.5rem;
-  justify-content: center;
-}
-.dev{
-  justify-content: center;
 }
 .header-content .right-header .name span {
   color: var(--color-secondary);
